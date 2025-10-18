@@ -1,7 +1,7 @@
 matrix:
   - name: Markdown
     sources:
-      - 'README'
+      - '**/*.md'
     aspell:
       lang: en
 
